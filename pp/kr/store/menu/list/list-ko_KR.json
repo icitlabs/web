@@ -200,7 +200,7 @@
                 }
             ],
             "menuDescription": "💚깊은 원두의 향과 함께 여유를 가지세요❗",
-            "menuImageUrl": "images/coffee/menu_americano.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/coffee/menu_americano.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -405,7 +405,7 @@
                 }
             ],
             "menuDescription": "💛고소한 향과 부드러움을 느껴보세요❗",
-            "menuImageUrl": "images/coffee/menu_latte.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/coffee/menu_latte.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -610,7 +610,7 @@
                 }
             ],
             "menuDescription": "🧡특별한 향과 맛을 제공합니다❗",
-            "menuImageUrl": "images/coffee/menu_espresso.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/coffee/menu_espresso.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -815,7 +815,7 @@
                 }
             ],
             "menuDescription": "💚진한 에스프레소와 부드러운 우유의 조화❗",
-            "menuImageUrl": "images/coffee/menu_cappuccino.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/coffee/menu_cappuccino.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -1020,7 +1020,7 @@
                 }
             ],
             "menuDescription": "💛풍부한 향과 맛을 제공합니다❗",
-            "menuImageUrl": "images/coffee/menu_macchiato.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/coffee/menu_macchiato.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -1225,7 +1225,7 @@
                 }
             ],
             "menuDescription": "💚건강을 생각한 자연의 맛❗",
-            "menuImageUrl": "images/tea/menu_green_tea.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/tea/menu_green_tea.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -1430,7 +1430,7 @@
                 }
             ],
             "menuDescription": "💛상큼한 레몬의 깊은 맛을 즐기세요❗",
-            "menuImageUrl": "images/tea/menu_lemon_tea.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/tea/menu_lemon_tea.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -1635,7 +1635,7 @@
                 }
             ],
             "menuDescription": "🧡기분이 상쾌해지고 싶을 때❗",
-            "menuImageUrl": "images/tea/menu_mint_tea.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/tea/menu_mint_tea.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -1840,7 +1840,7 @@
                 }
             ],
             "menuDescription": "💚천연 자스민의 향과 맛을 느껴보세요❗",
-            "menuImageUrl": "images/tea/menu_jasmine_tea.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/tea/menu_jasmine_tea.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -2045,7 +2045,7 @@
                 }
             ],
             "menuDescription": "💛건강과 다이어트 생각한다면❗",
-            "menuImageUrl": "images/tea/menu_mango_tea.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/tea/menu_mango_tea.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -2155,7 +2155,7 @@
                 }
             ],
             "menuDescription": "💚초콜릿의 진한 맛과 마쉬멜로의 부드러움❗",
-            "menuImageUrl": "images/beverages/menu_hot_chocolate.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/beverages/menu_hot_chocolate.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -2265,7 +2265,7 @@
                 }
             ],
             "menuDescription": "💛레모네이드의 상큼함을 선물합니다❗",
-            "menuImageUrl": "images/beverages/menu_lemonade.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/beverages/menu_lemonade.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -2375,7 +2375,7 @@
                 }
             ],
             "menuDescription": "🧡기분이 상쾌해지고 싶을 때❗",
-            "menuImageUrl": "images/beverages/menu_vanilla_milkshake.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/beverages/menu_vanilla_milkshake.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -2485,7 +2485,7 @@
                 }
             ],
             "menuDescription": "💚딸기와 바나나의 환상적인 조화❗",
-            "menuImageUrl": "images/beverages/menu_strawberry_banana_smoothie.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/beverages/menu_strawberry_banana_smoothie.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -2595,7 +2595,7 @@
                 }
             ],
             "menuDescription": "💛은은하면서 달콤한 블루베리의 시원함❗",
-            "menuImageUrl": "images/beverages/menu_blueberry_smoothie.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/beverages/menu_blueberry_smoothie.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
@@ -2705,7 +2705,7 @@
                 }
             ],
             "menuDescription": "🧡여러가지 베리들이 모였다❗",
-            "menuImageUrl": "images/beverages/menu_mixed_berry_smoothie.jpg",
+            "menuImageUrl": "https://icitlabs.github.io/web/pp/kr/store/menu/list/images/beverages/menu_mixed_berry_smoothie.jpg",
             "menuDetailsUrl": "https://cafe.naver.com/publicplatform/25",
             "remark": "",
             "visibility": "visible"
