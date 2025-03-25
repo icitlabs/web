@@ -15,7 +15,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -36,7 +36,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -72,7 +72,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -93,7 +93,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -129,7 +129,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -150,7 +150,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -186,7 +186,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -207,7 +207,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -243,7 +243,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -264,7 +264,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -300,7 +300,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -321,7 +321,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -357,7 +357,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -378,7 +378,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -414,7 +414,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -435,7 +435,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -471,7 +471,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -492,7 +492,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -528,7 +528,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -549,7 +549,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -585,7 +585,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -621,7 +621,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -657,7 +657,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -693,7 +693,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
@@ -729,84 +729,10 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
-                        {
-                            "id": null,
-                            "title": "사이즈",
-                            "quantity": 1,
-                            "selectedCategoryPriceIndex": 0,
-                            "minQuantity": 1,
-                            "maxQuantity": 999,
-                            "freeMenuOptionCount": 0,
-                            "isFreeMenuOption": false,
-                            "menuOptionType": 1,
-                            "categoryTitleList": [
-                                "Normal",
-                                "Big",
-                                "Mega"
-                            ],
-                            "categoryPriceList": [
-                                0,
-                                500,
-                                1000
-                            ],
-                            "unitPerPrice": 1,
-                            "maxQuantityPrice": null,
-                            "price": null,
-                            "tax": null,
-                            "discount": null,
-                            "beginDate": null,
-                            "endDate": null,
-                            "beginTime": null,
-                            "endTime": null,
-                            "remark": null
-                        },
-                        {
-                            "id": null,
-                            "title": "디카페인",
-                            "quantity": 0,
-                            "selectedCategoryPriceIndex": 0,
-                            "minQuantity": 1,
-                            "maxQuantity": 1,
-                            "freeMenuOptionCount": 0,
-                            "isFreeMenuOption": false,
-                            "menuOptionType": 0,
-                            "categoryTitleList": null,
-                            "categoryPriceList": null,
-                            "unitPerPrice": 1,
-                            "maxQuantityPrice": null,
-                            "price": 300,
-                            "tax": null,
-                            "discount": null,
-                            "beginDate": null,
-                            "endDate": null,
-                            "beginTime": null,
-                            "endTime": null,
-                            "remark": null
-                        },
-                        {
-                            "id": null,
-                            "title": "Topping",
-                            "quantity": 0,
-                            "selectedCategoryPriceIndex": 0,
-                            "minQuantity": 1,
-                            "maxQuantity": 9,
-                            "freeMenuOptionCount": 0,
-                            "isFreeMenuOption": false,
-                            "menuOptionType": 0,
-                            "categoryTitleList": null,
-                            "categoryPriceList": null,
-                            "unitPerPrice": 1,
-                            "maxQuantityPrice": null,
-                            "price": 500,
-                            "tax": null,
-                            "discount": null,
-                            "beginDate": null,
-                            "endDate": null,
-                            "beginTime": null,
-                            "endTime": null,
-                            "remark": null
-                        }
+                    "menuOptionPriceIdList": [
+                        1742870640000,
+                        1742870640001,
+                        1742870640002
                     ],
                     "price": 3500,
                     "tax": "10%",
@@ -839,7 +765,7 @@
                     "minQuantity": 1,
                     "maxQuantity": 999,
                     "freeMenuOptionCount": 0,
-                    "menuOptionPriceList": [
+                    "menuOptionPriceIdList": [
                         1742870640000,
                         1742870640001,
                         1742870640002
