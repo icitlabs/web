@@ -1,6 +1,7 @@
 {
    "id": "w92P+NLUiYrS3JHbnu6DwNiLysKWmtXY1o6O39LdmojVotDjqLGx9468kri2oLqO",
    "storeId": "pYyrfQIiFJcpY3t371hHCLnKy3j3lHsglbvHn+0LXv8=",
+   "hostId": "dDCo+q4mEEykFn+mRvCvmA==",
    "storeName": "OcPkZPD/v4xgcihEQh1FI83fRXPeU52AI7VjhyKU0hg=",
    "section": "E7QT0wF9LgrtlC+L+CsjEQ==",
    "lat": "sbbI2GSMCjcLZEC3fP8J3Q==",
@@ -8,6 +9,8 @@
    "address": "yqpNxY2tmi7PjVGR9Nf3pseZvAHWRyNw3eeuAcAg4Zc=",
    "paymentKey": "",
    "paymentUrl": "",
+   "serverAddress": "XzGig9QbIxvLB3lENN8IqLaRWhKXn2pqYd4/r6ZelEB7puUGT63JOgLdm/0etPHB",
+   "serverPort": "l1/sDj1EusUevnczTGgV6g==",
    "countryIso": "kr",
    "supportedLocales": {
        "supportedLocales": [
