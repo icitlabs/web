@@ -1,20 +1,19 @@
 {
     "id": "w92P+NLUiYrS3JHbnu6DwNiLysKWmtXY1o6O39LdmojVotDjqLGx9468kri2oLqO",
-    "storeId": "pYyrfQIiFJcpY3t371hHCLnKy3j3lHsglbvHn+0LXv8=",
-    "hostId": "dDCo+q4mEEykFn+mRvCvmA==",
-    "storeName": "OcPkZPD/v4xgcihEQh1FI83fRXPeU52AI7VjhyKU0hg=",
-    "section": "E7QT0wF9LgrtlC+L+CsjEQ==",
-    "lat": "sbbI2GSMCjcLZEC3fP8J3Q==",
-    "lon": "KE31iY4YrGZdHdIXe5sIiA==",
-    "address": "yqpNxY2tmi7PjVGR9Nf3pseZvAHWRyNw3eeuAcAg4Zc=",
+    "storeId": "SMeUjcZKqaG/TsJwn78y1cBdWJ0io1+G2LpuaIySkUk=",
+    "hostId": "c73RFV+SQ5f/wNj8iqsUCA==",
+    "storeName": "Dcx4GvfMBs6Bg6XwTzoGxBx3m8tUbuzUmm38I5LCqTY=",
+    "section": "Jvs6YUKgwqKc/uo/WuZWag==",
+    "lat": "zpBa3I9OnKDRd7Oguashig==",
+    "lon": "uwFIaJP8nCjB0RARNg8aBg==",
+    "address": "r+3piPH6ExOa2R2rkyURF8xCSIfyvnDTUSQZa+bNL9w=",
     "paymentKey": "",
     "paymentUrl": "",
-    "serverAddress": "QITDuq65hQ2a8zfwfjm/Ug==",
-    "serverPort": "l1/sDj1EusUevnczTGgV6g==",
-	"pushPort": "Bp3IB+JbyEs4zFFjKTJZLg==",
-    "bizOwnerName": "qb4QaGW4aSZR2Qo9mlztzQ==",
-    "bizRegNo": "FWWwvD6AQ/kxunE3EY9a+w==",
-	"isCustomerAuthRequired": true,
+    "serverAddress": "jYTmu6FMADEoOw7+1GYa2g==",
+    "serverPort": "9ncbRYOewXR5kdm8e7fkuA==",
+    "pushPort": "2bPZcR91Vjl2k/IwGkRDdg==",
+    "bizOwnerName": "Yh261AtzgKJN7Yk8qKyZaA==",
+    "bizRegNo": "a3V3HwcYijs0g42lgtjBiQ==",
     "countryIso": "kr",
     "supportedLocales": {
         "supportedLocales": [
@@ -31,44 +30,46 @@
     "grade": 768,
     "partnerInfoList": [
         {
-            "id": "pYyrfQIiFJcpY3t371hHCOUVmUbzqafmKdwcLfPYzKQ=",
+            "id": "SMeUjcZKqaG/TsJwn78y1edvDXerRtywdHMH7nDL/4Q=",
             "pid": "",
-            "hid": "rnCDAg+I0ZobuFAYd2u1MQ==",
-            "name": "ERZlxK4BDO+6ACT1bdnnL0flLlhVlbUDRvHsu/e08ek=",
+            "hid": "XBpiwlUNNo6DgdfLEPzUJQ==",
+            "name": "r6viS+iFTixk4ffY4/oJ1v3t0IiUY5pce2Jm8lbWYGQ=",
             "section": "",
-            "comment": "GVY5o6S4AyTSL9f/JxkYCDjAXNYPIPZJuYcv8aj2gbwNMs56uU5iZKTTczJNDy2MnExhHVCqaYUwVtwC/wb5tA=="
+            "comment": "BnSRMxv91HS34EjH/GnMiTB+BD98DHJEIIYQi02W72bWMnmKpBvol8FjISrvMkWK8rc6lT4HEqa4mFZlQSlLLA=="
         },
         {
-            "id": "pYyrfQIiFJcpY3t371hHCLnKy3j3lHsglbvHn+0LXv8=",
+            "id": "SMeUjcZKqaG/TsJwn78y1cBdWJ0io1+G2LpuaIySkUk=",
             "pid": "",
-            "hid": "dDCo+q4mEEykFn+mRvCvmA==",
-            "name": "OcPkZPD/v4xgcihEQh1FI83fRXPeU52AI7VjhyKU0hg=",
+            "hid": "c73RFV+SQ5f/wNj8iqsUCA==",
+            "name": "Dcx4GvfMBs6Bg6XwTzoGxBx3m8tUbuzUmm38I5LCqTY=",
             "section": "",
-            "comment": "Uv/BfaPB/a9487AGX/26bonOXT75cbWQRiZMW09OmGvEMy2ZNWxDeGDY3CDHtX0LbNy70+GMxVXl2R//BLEM6Q=="
+            "comment": "x8EvmnM2bychX++S+74Mk/byE2gHWgbcMsTc+3RPcTOO1TyUKuR0F00OUSZ3EEWyQW/COYWVGPKrnBSrFh1b/g=="
         }
     ],
     "phoneInfoList": [
         {
-            "number": "b/QqWRnyUi34SUdbD9ocmw==",
+            "number": "spJSoQkFwvh9Rd/8qrV4iQ==",
             "isMessagable": true
         },
         {
-            "number": "w1T+dAzVSt8ADDs2FGdpBg==",
+            "number": "HxHbC9nF89xkrh6f9I4ANw==",
             "isMessagable": true
         },
         {
-            "number": "IvcAXodK1OkMXLu1m9wi0g==",
+            "number": "Q+FxQoNz383AUrmznPV8Sg==",
             "isMessagable": true
         },
         {
-            "number": "zK6uQ0gSlqRKfKiTMhbNYQ==",
+            "number": "MaVBHJSid3YkeRlRuav/EA==",
             "isMessagable": true
         },
         {
-            "number": "et6OUCd2oR2PX333/4zeGg==",
+            "number": "8nOQ6UTEyP+fovewdJZwvQ==",
             "isMessagable": true
         }
     ],
+    "menuInfoList": null,
+    "menuCategoryList": null,
     "serviceOptions": {
         "selfDelivery": true,
         "delivery": true,
